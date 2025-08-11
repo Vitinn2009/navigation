@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "navigation",
+			"path": "../navigation"
+		}
+	],
+	"settings": {}
+}
